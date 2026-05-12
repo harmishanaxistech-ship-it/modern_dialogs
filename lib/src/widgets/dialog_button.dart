@@ -1,4 +1,4 @@
-import \u0027package:flutter/material.dart\u0027;
+import 'package:flutter/material.dart';
 
 class DialogButton extends StatelessWidget {
   final String text;

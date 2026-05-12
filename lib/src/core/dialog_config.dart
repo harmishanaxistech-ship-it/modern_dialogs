@@ -1,5 +1,5 @@
-import \u0027package:flutter/material.dart\u0027;
-import \u0027../enums/animation_type.dart\u0027;
+import 'package:flutter/material.dart';
+import '../enums/animation_type.dart';
 
 class DialogConfig {
   final Color? backgroundColor;

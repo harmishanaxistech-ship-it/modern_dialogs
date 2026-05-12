@@ -1,4 +1,4 @@
-library modern_dialogs;
+library;
 
 export 'src/core/smart_dialogs.dart';
 export 'src/core/dialog_config.dart';

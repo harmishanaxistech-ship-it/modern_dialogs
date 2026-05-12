@@ -22,11 +22,11 @@ class AnimatedDialog extends StatelessWidget {
         padding: config.padding,
         margin: const EdgeInsets.symmetric(horizontal: 24),
         decoration: BoxDecoration(
-          color: config.backgroundColor ?? Theme.of(context).dialogBackgroundColor,
+          color: config.backgroundColor ?? Theme.of(context).dialogTheme.backgroundColor ?? Theme.of(context).colorScheme.surface,
           borderRadius: BorderRadius.circular(config.borderRadius),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.1),
+              color: Colors.black.withValues(alpha: 0.1),
               blurRadius: 20,
               offset: const Offset(0, 10),
             ),
