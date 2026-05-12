@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:modern_dialogs/modern_dialogs.dart';
+import 'package:modern_animated_dialogs/modern_animated_dialogs.dart';
 
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 

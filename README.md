@@ -1,4 +1,4 @@
-# Modern Dialogs
+# Modern Animated Dialogs
 
 A production-ready Flutter package for showing beautiful, animated, and highly customizable dialogs.
 
@@ -14,12 +14,11 @@ A production-ready Flutter package for showing beautiful, animated, and highly c
 
 ## Installation
 
-Add `modern_dialogs` to your `pubspec.yaml`:
+Add `modern_animated_dialogs` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  modern_dialogs:
-    path: ./ # Use path if local, or version if published
+  modern_animated_dialogs: ^1.0.0
 ```
 
 ## Getting Started
