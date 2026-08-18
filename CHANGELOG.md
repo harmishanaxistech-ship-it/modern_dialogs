@@ -1,3 +1,13 @@
+## 1.0.2
+
+* Fixed CHANGELOG missing version error.
+* Minor documentation updates.
+
+## 1.0.1
+
+* Updated documentation and README.
+* Minor improvements.
+
 ## 1.0.0
 
 * Initial release of Modern Dialogs.

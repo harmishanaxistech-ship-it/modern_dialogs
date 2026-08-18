@@ -18,7 +18,7 @@ Add `modern_animated_dialogs` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  modern_animated_dialogs: ^1.0.0
+  modern_animated_dialogs: ^1.0.2
 ```
 
 ## Getting Started
